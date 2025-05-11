@@ -50,7 +50,7 @@ Here are some screenshots of the Udemy Homepage Clone:
 ## 🌐 Live Demo
 
 Check out the live version of this project here:  
-🔗 [Udemy Homepage Clone]([Link](https://karthigap20.github.io/Udemy-Clone-Project/))
+🔗 [Udemy Homepage Clone](https://karthigap20.github.io/Udemy-Clone-Project/)
 
 ## 🙏 Thank You
 
