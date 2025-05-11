@@ -40,13 +40,13 @@ udemy-clone/
 Here are some screenshots of the Udemy Homepage Clone:
 
 1. *Homepage View:*
-   ![Homepage](C:\Users\Karthiga\Desktop\FSWD\HTML\Udemy-clone\image/Screenshot1.jpg)
+   ![Homepage](image/Screenshot1.jpg)
 
 2. *Course Section:*
-   ![Course Section](C:\Users\Karthiga\Desktop\FSWD\HTML\Udemy-clone\image/Screenshot2.jpg)
+   ![Course Section](image/Screenshot2.jpg)
 
 3. *Footer View:*
-   ![Footer](C:\Users\Karthiga\Desktop\FSWD\HTML\Udemy-clone\image/Screenshot3.jpg)
+   ![Footer](image/Screenshot3.jpg)
 ## 🌐 Live Demo
 
 Check out the live version of this project here:  
